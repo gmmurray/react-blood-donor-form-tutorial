@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-blood-donor-form-tutorial/static/css/main.24f14a89.chunk.css",
+    "main.js": "/react-blood-donor-form-tutorial/static/js/main.93b109d2.chunk.js",
+    "main.js.map": "/react-blood-donor-form-tutorial/static/js/main.93b109d2.chunk.js.map",
+    "runtime-main.js": "/react-blood-donor-form-tutorial/static/js/runtime-main.489a362a.js",
+    "runtime-main.js.map": "/react-blood-donor-form-tutorial/static/js/runtime-main.489a362a.js.map",
+    "static/js/2.a0a5693f.chunk.js": "/react-blood-donor-form-tutorial/static/js/2.a0a5693f.chunk.js",
+    "static/js/2.a0a5693f.chunk.js.map": "/react-blood-donor-form-tutorial/static/js/2.a0a5693f.chunk.js.map",
+    "index.html": "/react-blood-donor-form-tutorial/index.html",
+    "precache-manifest.3c9573a92e2e31b4166bd7a326f443a9.js": "/react-blood-donor-form-tutorial/precache-manifest.3c9573a92e2e31b4166bd7a326f443a9.js",
+    "service-worker.js": "/react-blood-donor-form-tutorial/service-worker.js",
+    "static/css/main.24f14a89.chunk.css.map": "/react-blood-donor-form-tutorial/static/css/main.24f14a89.chunk.css.map",
+    "static/js/2.a0a5693f.chunk.js.LICENSE.txt": "/react-blood-donor-form-tutorial/static/js/2.a0a5693f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-blood-donor-form-tutorial/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.489a362a.js",
+    "static/js/2.a0a5693f.chunk.js",
+    "static/css/main.24f14a89.chunk.css",
+    "static/js/main.93b109d2.chunk.js"
+  ]
+}
